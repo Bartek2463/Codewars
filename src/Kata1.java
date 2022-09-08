@@ -12,16 +12,8 @@ public class Kata1 {
 
     public static String getMiddle(String word) {
 
-        String s="";
-        if (word.length() % 2 == 0) {
-
-
-            s = word.substring(word.length()/2-1,word.length()/2+1);
-        } else {
-             s = String.valueOf(word.charAt(word.length()/2));
-        }
-        return s;
-
+        int length = word.length();
+        return (length%2!=0)? String.valueOf(word.charAt(length/2)): word.substring(length/2-1,length/2+1);
     }
 
 }
