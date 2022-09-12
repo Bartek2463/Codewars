@@ -34,7 +34,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Kata2">
     <configuration name="Kata1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Kata1" />
       <module name="untitled" />
@@ -42,8 +42,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Kata2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kata2" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Kata2" />
         <item itemvalue="Application.Kata1" />
       </list>
     </recent_temporary>
@@ -59,6 +67,8 @@
       <workItem from="1659707568224" duration="1146000" />
       <workItem from="1662640847663" duration="3761000" />
       <workItem from="1662667531239" duration="5420000" />
+      <workItem from="1662968358581" duration="1098000" />
+      <workItem from="1662969495295" duration="4483000" />
     </task>
     <task id="LOCAL-00001" summary="Main Solution">
       <created>1662674907729</created>
