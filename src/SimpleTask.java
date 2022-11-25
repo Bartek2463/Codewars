@@ -39,6 +39,7 @@ public class SimpleTask {
             if (ch == ' ') continue;
             list.add(str.substring(0, i) + Character.toUpperCase(ch) + str.substring(i + 1));
         }
+
         return list.toArray(new String[0]);
     }
 
