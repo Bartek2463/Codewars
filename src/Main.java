@@ -3,7 +3,10 @@ public class Main {
 
 
         Fundamentals fundamentals = new Fundamentals();
-        System.out.println(fundamentals.mexicanWave("hello"));
+//        System.out.println(fundamentals.mexicanWave("hello"));
+          fundamentals.wave("hallo");
+
     }
+
 
 }
