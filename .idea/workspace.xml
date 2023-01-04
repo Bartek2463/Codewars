@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02253034-cfb6-4a79-ad3b-26ad6e57eb49" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Banjo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Banjo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672781767490</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Regular Expressions">
+      <created>1672866669805</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672866669805</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +164,7 @@
     <MESSAGE value="solutions of others" />
     <MESSAGE value="solutions of others corrected" />
     <MESSAGE value="Main solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Main solution" />
+    <MESSAGE value="Regular Expressions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Regular Expressions" />
   </component>
 </project>

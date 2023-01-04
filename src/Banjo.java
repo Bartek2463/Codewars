@@ -21,8 +21,9 @@ fakeBin("9123456789");
     }
     public static String fakeBin(String numberString){
 
-        String s = numberString.replaceAll("[0-4]", "0");
-        return s.replaceAll("[^0]", "1");
+        String s = numberString.replaceAll("[0-4]", "0").replaceAll("[5-9]", "1");
+        System.out.println(s);
+        return s;
     }
 
 }
