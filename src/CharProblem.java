@@ -6,8 +6,7 @@ public class CharProblem {
 
     public static int howOld(final String herOld){
 
-        String s = herOld.replaceAll("[^0-9]", "");
-       return Integer.parseInt(s);
+    return Character.getNumericValue(herOld.charAt(0));
 
     }
 }
