@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02253034-cfb6-4a79-ad3b-26ad6e57eb49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CharProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CharProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CharProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -180,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672890085881</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Simple exercise for Java">
+      <created>1673464721969</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673464721969</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +213,7 @@
     <MESSAGE value="Main Solution" />
     <MESSAGE value="Refactor Code" />
     <MESSAGE value="Only open code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Only open code" />
+    <MESSAGE value="Simple exercise for Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Simple exercise for Java" />
   </component>
 </project>

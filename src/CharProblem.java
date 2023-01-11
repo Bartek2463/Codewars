@@ -1,9 +1,14 @@
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+import java.util.stream.IntStream;
+
 public class CharProblem {
 
     public static int howOld(final String herOld){
 
-        boolean b = herOld.startsWith("/d");
-        System.out.println(b);
-        return 1;
+        String s = herOld.replaceAll("[^0-9]", "");
+       return Integer.parseInt(s);
+
     }
 }
+

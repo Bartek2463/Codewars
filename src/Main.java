@@ -5,7 +5,7 @@ public class Main {
         Fundamentals fundamentals = new Fundamentals();
 //        System.out.println(fundamentals.mexicanWave("hello"));
          // fundamentals.wave("hallo");
-CharProblem.howOld("5 years old");
+        System.out.println(CharProblem.howOld("5 years old"));
     }
 
 
