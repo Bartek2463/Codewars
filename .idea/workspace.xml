@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02253034-cfb6-4a79-ad3b-26ad6e57eb49" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FristNonConsecutive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FristNonConsecutive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CharProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CharProblem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +41,9 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.FristNonConsecutive">
-    <configuration name="FristNonConsecutive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FristNonConsecutive" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Banjo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Banjo" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FristNonConsecutive" />
-        <item itemvalue="Application.Sum" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Sum" />
         <item itemvalue="Application.Kata2" />
         <item itemvalue="Application.Kata1" />
+        <item itemvalue="Application.Banjo" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +171,56 @@
       <option name="project" value="LOCAL" />
       <updated>1672879729161</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Only open code">
+      <created>1672890085881</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1672890085881</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Simple exercise for Java">
+      <created>1673464721969</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673464721969</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Simple exercise for Java">
+      <created>1673465970425</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673465970425</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Simple exercise use Codewars">
+      <created>1673466037763</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1673466037763</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Main solutions using Method Repleace">
+      <created>1673473594414</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1673473594414</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Stray algoritm simple task">
+      <created>1673473942774</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1673473942774</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Stray algoritm simple task">
+      <created>1673475947396</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1673475947396</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +245,11 @@
     <MESSAGE value="Regular Expressions corrected" />
     <MESSAGE value="Main Solution" />
     <MESSAGE value="Refactor Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor Code" />
+    <MESSAGE value="Only open code" />
+    <MESSAGE value="Simple exercise for Java" />
+    <MESSAGE value="Simple exercise use Codewars" />
+    <MESSAGE value="Main solutions using Method Repleace" />
+    <MESSAGE value="Stray algoritm simple task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stray algoritm simple task" />
   </component>
 </project>
