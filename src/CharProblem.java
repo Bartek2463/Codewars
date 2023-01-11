@@ -1,3 +1,6 @@
+import java.util.Arrays;
+import java.util.stream.IntStream;
+
 public class CharProblem {
 
     public static int howOld(final String herOld){
@@ -13,10 +16,8 @@ public class CharProblem {
 
     public int stray(int[]numbers){
 
-        for (Integer number: numbers) {
-            System.out.println(number);
-        }
-        return 0;
+      Arrays.sort(numbers);
+      return numbers[0]<numbers[1]?numbers[0]:numbers[numbers.length-1];
     }
 }
 

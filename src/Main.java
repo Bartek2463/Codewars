@@ -9,7 +9,7 @@ public class Main {
 //        CharProblem.correct("1F-RUDYARD K1PL1NG");
 
     CharProblem charProblem = new CharProblem();
-    charProblem.stray(new int[]{17, 17, 3, 17, 17, 17, 17});
+        System.out.println(charProblem.stray(new int[]{4,4,5}));
 
     }
 

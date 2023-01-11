@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02253034-cfb6-4a79-ad3b-26ad6e57eb49" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CharProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CharProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -207,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673473594414</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Stray algoritm simple task">
+      <created>1673473942774</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1673473942774</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +244,7 @@
     <MESSAGE value="Simple exercise for Java" />
     <MESSAGE value="Simple exercise use Codewars" />
     <MESSAGE value="Main solutions using Method Repleace" />
-    <option name="LAST_COMMIT_MESSAGE" value="Main solutions using Method Repleace" />
+    <MESSAGE value="Stray algoritm simple task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stray algoritm simple task" />
   </component>
 </project>
