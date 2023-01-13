@@ -8,9 +8,10 @@ public class Main {
 //        CharProblem.howOld("5 years old");
 //        CharProblem.correct("1F-RUDYARD K1PL1NG");
 
-    CharProblem charProblem = new CharProblem();
-        System.out.println(charProblem.stray(new int[]{4,4,5}));
+//    CharProblem charProblem = new CharProblem();
+//        System.out.println(charProblem.stray(new int[]{4,4,5}));
 
+        BaseAccuml.accum("abcd");
     }
 
 
