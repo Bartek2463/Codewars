@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02253034-cfb6-4a79-ad3b-26ad6e57eb49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FindDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fighters/Fighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fighters/Winner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DocumentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fighters/Game.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseAccuml.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseAccuml.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fundamentals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fundamentals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fighters/Fighter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fighters/Fighter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fighters/Winner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fighters/Winner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -232,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673570863376</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Fighter, Winner">
+      <created>1674183708104</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1674183708104</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,6 +272,7 @@
     <MESSAGE value="Main solutions using Method Repleace" />
     <MESSAGE value="Stray algoritm simple task" />
     <MESSAGE value="training repeat" />
-    <option name="LAST_COMMIT_MESSAGE" value="training repeat" />
+    <MESSAGE value="Fighter, Winner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fighter, Winner" />
   </component>
 </project>

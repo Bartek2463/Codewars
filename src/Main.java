@@ -21,6 +21,8 @@ public class Main {
         // System.out.println(BaseAccuml.humanYearsCatYearsDogYears(8));
         // System.out.println(BaseAccuml.square(10));
         //FindDivisor.numberOfDivison(12);
-        FindDivisor.findSmallestInt(new int[]{4,6,7,8,9});
+//        FindDivisor.findSmallestInt(new int[]{4,6,7,8,9});
+        Fundamentals.longest("aaabbbcccdddfffggg","wwwtttyyyrrr");
+
     }
 }
