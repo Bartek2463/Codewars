@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -21,6 +24,12 @@ public class Main {
         // System.out.println(BaseAccuml.humanYearsCatYearsDogYears(8));
         // System.out.println(BaseAccuml.square(10));
         //FindDivisor.numberOfDivison(12);
-        FindDivisor.findSmallestInt(new int[]{4,6,7,8,9});
+//        FindDivisor.findSmallestInt(new int[]{4,6,7,8,9});
+//        System.out.println(Fundamentals.longest("aaabbbcccdddfffggg", "wwwtttyyyrrr"));
+
+//        Fundamentals.sortArray(new int[]{1,8,3,6,2,7,4});
+
+        Fundamentals.rangeExtraction(new int[]{1,2,3,4,5,6,7,8,13,34});
+
     }
 }
