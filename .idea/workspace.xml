@@ -2,21 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02253034-cfb6-4a79-ad3b-26ad6e57eb49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fundamentals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fundamentals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="Bartek2463" />
+        <option name="repository" value="Codewars" />
+      </RepoCoordinatesHolder>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -27,16 +46,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
-  }
-}]]></component>
-  <component name="RunManager">
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Banjo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Banjo" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kata1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kata1" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kata2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kata2" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sum" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -45,6 +102,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Sum" />
+        <item itemvalue="Application.Kata2" />
+        <item itemvalue="Application.Kata1" />
+        <item itemvalue="Application.Banjo" />
       </list>
     </recent_temporary>
   </component>
@@ -57,7 +118,159 @@
       <option name="presentableId" value="Default" />
       <updated>1659707565687</updated>
       <workItem from="1659707568224" duration="1146000" />
+      <workItem from="1662640847663" duration="3761000" />
+      <workItem from="1662667531239" duration="5420000" />
+      <workItem from="1662968358581" duration="1098000" />
+      <workItem from="1662969495295" duration="8051000" />
     </task>
+    <task id="LOCAL-00001" summary="Main Solution">
+      <created>1662674907729</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662674907729</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Main Solution">
+      <created>1662975400829</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662975400829</updated>
+    </task>
+    <task id="LOCAL-00003" summary="solutions of others">
+      <created>1669417008907</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669417008907</updated>
+    </task>
+    <task id="LOCAL-00004" summary="solutions of others corrected">
+      <created>1669417519365</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669417519365</updated>
+    </task>
+    <task id="LOCAL-00005" summary="solutions of others corrected">
+      <created>1672778297782</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672778297783</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Main solution">
+      <created>1672781767490</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672781767490</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Regular Expressions">
+      <created>1672866669805</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672866669805</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Regular Expressions corrected">
+      <created>1672866800057</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672866800057</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Main Solution">
+      <created>1672879622458</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1672879622458</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Refactor Code">
+      <created>1672879729161</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1672879729161</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Only open code">
+      <created>1672890085881</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1672890085881</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Simple exercise for Java">
+      <created>1673464721969</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673464721969</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Simple exercise for Java">
+      <created>1673465970425</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673465970425</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Simple exercise use Codewars">
+      <created>1673466037763</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1673466037763</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Main solutions using Method Repleace">
+      <created>1673473594414</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1673473594414</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Stray algoritm simple task">
+      <created>1673473942774</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1673473942774</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Stray algoritm simple task">
+      <created>1673475947396</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1673475947396</updated>
+    </task>
+    <task id="LOCAL-00018" summary="training repeat">
+      <created>1673570863376</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1673570863376</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Fighter, Winner">
+      <created>1674183708104</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1674183708104</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Fundamentals java">
+      <created>1674254888481</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1674254888481</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Fundamentals java solutions">
+      <created>1674581296746</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1674581296746</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,5 +286,24 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="solutions of others" />
+    <MESSAGE value="solutions of others corrected" />
+    <MESSAGE value="Main solution" />
+    <MESSAGE value="Regular Expressions" />
+    <MESSAGE value="Regular Expressions corrected" />
+    <MESSAGE value="Main Solution" />
+    <MESSAGE value="Refactor Code" />
+    <MESSAGE value="Only open code" />
+    <MESSAGE value="Simple exercise for Java" />
+    <MESSAGE value="Simple exercise use Codewars" />
+    <MESSAGE value="Main solutions using Method Repleace" />
+    <MESSAGE value="Stray algoritm simple task" />
+    <MESSAGE value="training repeat" />
+    <MESSAGE value="Fighter, Winner" />
+    <MESSAGE value="Fundamentals java" />
+    <MESSAGE value="Fundamentals java solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fundamentals java solutions" />
   </component>
 </project>
