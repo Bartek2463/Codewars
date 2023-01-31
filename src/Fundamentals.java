@@ -51,10 +51,10 @@ public class Fundamentals {
     public static String rangeExtraction(int[] arr) {
 
         int len = arr.length;
-        int idx1=0;
-        int idx2=0;
+        int idx1 = 0;
+        int idx2 = 0;
         while (idx1 < len) {
-            while (++idx2 < len && arr[idx2] - arr[idx2 - 1] == 1);
+            while (++idx2 < len && arr[idx2] - arr[idx2 - 1] == 1) ;
             if (idx2 - idx1 > 2) {
                 System.out.printf("%s-%s,", arr[idx1], arr[idx2 - 1]);
                 idx1 = idx2;
@@ -65,7 +65,24 @@ public class Fundamentals {
         }
 
 
-
         return "";
     }
+
+    public static String encode(String word) {
+
+        word = word.toLowerCase();
+       String result="";
+        for (int i = 0; i < word.length(); i++) {
+
+            char c = word.charAt(i);
+
+            result+=word.lastIndexOf(c)==word.indexOf(c)?"(":")k";
+
+        }
+
+        System.out.println(result);
+        return result;
+    }
+
+
 }

@@ -29,7 +29,9 @@ public class Main {
 
 //        Fundamentals.sortArray(new int[]{1,8,3,6,2,7,4});
 
-        Fundamentals.rangeExtraction(new int[]{1,2,3,4,5,6,7,8,13,34});
+//        Fundamentals.rangeExtraction(new int[]{1,2,3,4,5,6,7,8,13,14,15,34});
+
+  Fundamentals.encode("ytgtft");
 
     }
 }
