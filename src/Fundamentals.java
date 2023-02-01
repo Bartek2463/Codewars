@@ -65,7 +65,31 @@ public class Fundamentals {
         }
 
 
-
         return "";
     }
+
+    public static String encode(String word) {
+        String s = word.toLowerCase();
+        String result = "";
+
+        for (int i=0;i<s.length();++i){
+            char c = s.charAt(i);
+            result+=s.indexOf(c)==s.lastIndexOf(c)?"(":")";
+            System.out.println(s.lastIndexOf(c));
+        }
+        System.out.println(result);
+        return result;
+    }
+    public static  String encodeStream(String wordl){
+        String collect  = wordl.toLowerCase()
+                .chars()
+                .mapToObj(t -> wordl.indexOf(t) == wordl.lastIndexOf(t) ? "(" : ")")
+                .collect(Collectors.joining());
+        System.out.println(collect);
+
+        return collect;
+
+    }
+
+
 }
