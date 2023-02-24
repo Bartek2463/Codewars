@@ -1,3 +1,5 @@
+import fighters.PigLatin;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -30,7 +32,9 @@ public class Main {
 //        Fundamentals.sortArray(new int[]{1,8,3,6,2,7,4});
 
        // Fundamentals.rangeExtraction(new int[]{1,2,3,4,5,6,7,8,13,34});
-        Fundamentals.encodeStream("ziyioipi");
+//        Fundamentals.encodeStream("ziyioipi");
+//        PigLatin.pigIt("This is my string");
+    PigLatin.solution(new int[]{100,130,340,540,128});
 
     }
 }
