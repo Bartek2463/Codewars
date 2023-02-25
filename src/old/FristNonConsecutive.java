@@ -1,3 +1,5 @@
+package old;
+
 public class FristNonConsecutive {
     public static void main(String[] args) {
      //   System.out.println(find(new int[]{1, 2, 3, 4, 6, 7, 8}));
